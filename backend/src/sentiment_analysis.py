@@ -24,7 +24,3 @@ def get_comment_sentiment(comment):
         return 'neutral'
     else:
         return 'negative'
-
-# print(get_comment_sentiment("even though I think your opinion is stupid, fuck you idiot. But no for real, I'm sorry i'm just mad today. I  want to  tell you that i respect your opinion even though I don't agree with it"))
-# print(get_comment_sentiment("fuck you, you're an idiot and you should shut the fuck up"))
-# print(get_comment_sentiment("yeah no, I think that is stupid and Trump should shut up, but this is only my opinion you know??"))
